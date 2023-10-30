@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.AssemblyInfo.cs
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\kaya\kaya\bin\Debug\net6.0\kaya.exe
+C:\Users\user\source\repos\kaya\kaya\bin\Debug\net6.0\kaya.deps.json
+C:\Users\user\source\repos\kaya\kaya\bin\Debug\net6.0\kaya.runtimeconfig.json
+C:\Users\user\source\repos\kaya\kaya\bin\Debug\net6.0\kaya.dll
+C:\Users\user\source\repos\kaya\kaya\bin\Debug\net6.0\kaya.pdb
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.dll
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\refint\kaya.dll
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.pdb
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\kaya.genruntimeconfig.cache
+C:\Users\user\source\repos\kaya\kaya\obj\Debug\net6.0\ref\kaya.dll
